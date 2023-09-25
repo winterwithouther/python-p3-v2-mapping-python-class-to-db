@@ -6,4 +6,6 @@ from department import Department
 
 import ipdb
 
+Department.create_table()
+
 ipdb.set_trace()
